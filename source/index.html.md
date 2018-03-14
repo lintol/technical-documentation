@@ -12,16 +12,6 @@ toc_footers:
   #- <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
 
 includes:
-  - user_introduction
-  - user_login
-  #- user management
-  - user_profiles
-  - user_processors
-  - user_resources
-  - user_users
-  - user_config
-  #- reports
-  #- settings
   - overview
   - ckan_setup
   - extensions
