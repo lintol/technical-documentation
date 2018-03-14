@@ -17,15 +17,17 @@ includes:
   #- user management
   - user_profiles
   - user_processors
+  - user_resources
+  - user_users
   - user_config
   #- reports
-  #- users
   #- settings
   - overview
   - ckan_setup
   - extensions
   - contribution
-  - sample
+  - create_processor
+  #- sample
 
 search: true
 ---

@@ -1,9 +1,9 @@
 # Contributing
 
 We love pull requests from everyone. By participating in this project, you
-agree to abide by the lintol [code of conduct]. When contributing to this repository,
+agree to abide by the Lintol [Contributor Code of Conduct](#code-of-conduct). When contributing to one of the project repositories,
 please first discuss the change you wish to make via issue, email, or any other method
-with the owners of this repository before making a change.
+with the owners of the repository before making a change.
 
 * [Fork the repository](https://github.com/lintol/lintol-frontend)
 * Clone the repo - git clone https://github.com/your-username/lintol-frontend.git
@@ -15,11 +15,11 @@ some changes or improvements or alternatives.
 
 Some things that will increase the chance that your pull request is accepted:
 
-* Write tests.
-* Follow our [style guide][style].
-* Write a [good commit message][commit].
+* Write tests
+* Follow our [style guide](#style-guide).
+* Write a [good commit message](#commit-message).
 
-
+<a name="code-of-conduct"></a>
 # Contributor Code of Conduct
 
 ## Our Pledge
